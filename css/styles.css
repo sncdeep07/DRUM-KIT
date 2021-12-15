@@ -1,0 +1,68 @@
+body {
+  background-color: #283149;
+  text-align: center;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+h1 {
+  color: #dbedf3;
+  font-family: "Arvo", serif;
+  font-size: 5rem;
+  text-shadow: 3px 0 #da0463;
+}
+
+.musical-instrument-set {
+  margin: 10% auto;
+}
+
+.drum {
+  background-color: white;
+  border: 10px solid #404b69;
+  border-radius: 15px;
+  color: #da0463;
+  font-family: "Arvo", serif;
+  font-size: 5rem;
+  font-weight: 700;
+  height: 150px;
+  margin: 10px;
+  line-height: 2;
+  text-shadow: 3px 0 #dbedf3;
+  width: 150px;
+}
+
+.w {
+  background-image: url(../images/crash.png);
+}
+
+.a {
+  background-image: url(../images/kick.png);
+}
+
+.s {
+  background-image: url(../images/snare.png);
+}
+
+.d {
+  background-image: url(../images/tom1.png);
+}
+
+.j {
+  background-image: url(../images/tom2.png);
+}
+
+.k {
+  background-image: url(../images/tom3.png);
+}
+
+.l {
+  background-image: url(../images/tom4.png);
+}
+
+footer {
+  color: #dbedf3;
+  font-family: sans-serif;
+}
